@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#`print(Hello world)`
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,3 +11,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+`print(Hello world)`
